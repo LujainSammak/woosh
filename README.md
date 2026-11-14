@@ -11,7 +11,7 @@ A Flutter weather app with a sky that follows real sunrise and sunset. Three lan
 ## Demo
 
 - **Web demo:** [lujainsammak.github.io/woosh](https://lujainsammak.github.io/woosh/)
-- **Android APK:** _coming soon_ (see the Releases page)
+- **Android APK:** [Download woosh.apk](https://github.com/LujainSammak/woosh/releases/latest/download/woosh.apk)
 
 ## Features
 
